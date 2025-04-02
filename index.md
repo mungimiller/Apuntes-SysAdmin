@@ -1,45 +1,49 @@
----
-layout: default
-title: Apuntes SysAdmin
----
+![image](https://github.com/user-attachments/assets/9aace632-820a-4c0c-8739-835b20141aa8)
 
-# 💻 Apuntes de Administración de Sistemas Linux
 
-Bienvenido a mis apuntes. Aquí encontrarás documentación útil para instalar, gestionar y proteger servidores Linux.  
-Organizados por secciones para ir directo al grano 👇
+Bienvenido a **Apuntes SysAdmin**, un repositorio donde recopilo conocimientos, configuraciones y trucos útiles que he ido necesitando para Administrar Sistemas Linux.
 
----
+## 📖 Contenido
 
-## 📁 Categorías principales
+🔹 [![Ir a LAMP](https://img.shields.io/badge/📂%20LAMP-blue?style=for-the-badge)](./LAMP)
 
-### 🐳 Docker y Contenedores
-- [DOCKERS](./DOCKERS/)
 
-### 🔧 Automatización y Configuración
-- [ANSIBLE](./ANSIBLE/)
+🔹 [![Ir a FIREWALL](https://img.shields.io/badge/📂%20FIREWALL-blue?style=for-the-badge)](./FIREWALL)
 
-### 🌐 Servicios Web y CMS
-- [LAMP](./LAMP/)
-- [WORDPRESS](./WORDPRESS/)
+🔹 [![Ir a WORDPRESS](https://img.shields.io/badge/📂%20WORDPRESS-blue?style=for-the-badge)](https://github.com/mungimiller/Apuntes_SysAdmin/tree/main/WORDPRESS)
 
-### 📦 Servicios de Red
-- [DNS](./DNS/)
-- [FTP](./FTP/)
-- [POSTFIX-DOVECOT (Correo)](./POSTFIX-DOVECOT/)
-- [SSH](./SSH/)
+🔹 [![Ir a CORREO](https://img.shields.io/badge/📂%20POSTFIX/DOVECOT-blue?style=for-the-badge)](https://github.com/mungimiller/Apuntes_SysAdmin/tree/main/POSTFIX-DOVECOT)
 
-### 🔥 Seguridad
-- [FIREWALL](./FIREWALL/)
+🔹 [![Ir a DOCKERS](https://img.shields.io/badge/📂%20DOCKERS-blue?style=for-the-badge)](https://github.com/mungimiller/Apuntes_SysAdmin/tree/main/DOCKERS)
 
-### 📜 Comandos Útiles
-- [COMANDOS SYS ADMIN](./COMANDOS%20SYS%20ADMIN.md)
+🔹 [![Ir a ANSIBLE](https://img.shields.io/badge/📂%20ANSIBLE-blue?style=for-the-badge)](https://github.com/mungimiller/Apuntes_SysAdmin/tree/main/ANSIBLE)
 
 ---
 
-## 📌 Notas
+## 🛠 Conceptos LAMP
+Aquí encontrarás información sobre comandos esenciales, estructura de archivos en Linux, gestión de usuarios y permisos.
 
-🛠️ Este sitio se genera con GitHub Pages usando el tema `jekyll-theme-hacker`.  
-👨‍💻 Estoy en formación en ASIR y comparto todo lo que aprendo y practico aquí.  
-💬 Si tienes sugerencias o quieres colaborar, ¡abre un issue o un pull request!
+## ⚙️ Configuraciones Avanzadas
+Guías sobre configuraciones avanzadas de servidores, redes y optimización del sistema.
+
+## 📜 Scripts Útiles
+Colección de scripts en Bash y otros lenguajes para automatizar tareas de administración.
+
+## 🔐 Seguridad y Buenas Prácticas
+Medidas de seguridad, hardening y protección contra ataques comunes.
+
+## 🔧 Herramientas Recomendadas
+Listado de herramientas esenciales para la administración de sistemas y monitorización.
+
 
 ---
+
+📌 **Sigue el repo para más actualizaciones y contribuciones.**
+
+✉️ *Si tienes sugerencias o mejoras, abre un issue o haz un pull request.*
+
+
+
+
+
+![Hecho con ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
