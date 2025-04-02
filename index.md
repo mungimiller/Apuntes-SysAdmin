@@ -1,3 +1,9 @@
+---
+title: Inicio
+nav_order: 1
+---
+
+
 ![image](https://github.com/user-attachments/assets/9aace632-820a-4c0c-8739-835b20141aa8)
 
 
