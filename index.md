@@ -1,3 +1,27 @@
+---
+layout: default
+title: DOCKERS
+---
+
+<div style="float: left; width: 20%; background-color: #111; padding: 10px; min-height: 100vh;">
+  <h3 style="color: lime;">Menú</h3>
+  <ul style="list-style: none; padding-left: 0;">
+    <li><a href="/Apuntes_SysAdmin/">🏠 Inicio</a></li>
+    <li><a href="/Apuntes_SysAdmin/LAMP/">LAMP</a></li>
+    <li><a href="/Apuntes_SysAdmin/DOCKERS/">DOCKERS</a></li>
+    <li><a href="/Apuntes_SysAdmin/FIREWALL/">FIREWALL</a></li>
+    <li><a href="/Apuntes_SysAdmin/ANSIBLE/">ANSIBLE</a></li>
+  </ul>
+</div>
+
+<div style="margin-left: 22%; padding: 10px;">
+<h1>🧱 DOCKERS</h1>
+
+Aquí van los apuntes sobre contenedores Docker...
+
+</div>
+
+
 ![image](https://github.com/user-attachments/assets/9aace632-820a-4c0c-8739-835b20141aa8)
 
 
