@@ -1,3 +1,9 @@
-theme: jekyll-theme-hacker
 title: Apuntes SysAdmin
 description: Apuntes útiles sobre administración de sistemas Linux.
+theme: just-the-docs
+
+# Configuración del tema
+just_the_docs:
+  color_scheme: dark     # Cambia a 'light' si prefieres claro
+  search_enabled: true
+  logo: false
